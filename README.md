@@ -3,3 +3,4 @@ Test Git
 Modif depuis local vers Github
 Modif depuis git vers local pour tester fetch
 Modif depuis git vers local pour tester git pull
+Test de confirmation de git pull
